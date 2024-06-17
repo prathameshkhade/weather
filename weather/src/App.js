@@ -1,11 +1,10 @@
 import './App.css';
+import Current from './pages/Current';
 
 function App() {
   return (
-    <div className="App">
-      <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+    <div className="bg-amber-200 w-full h-full">
+      <Current />
     </div>
   );
 }
