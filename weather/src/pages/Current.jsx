@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Current() {
   return (
-    <div className="bg-gray-200 rounded-xl w-[200px] h-[170px] m-2 p-2 devide devide-y text-left">
+    <div className="bg-gray-200 rounded-xl w-[200px] h-[170px] m-2 p-2 devide devide-y text-left backdrop-blur-sm bg-white/30">
       <div className="text-2xl font-semibold text-sky-500">Now</div>
       <div className="text-xl font-semibold">
         <span className='text-7xl font-bold'>
