@@ -27,7 +27,7 @@ function Search() {
   return (
     <div className="">
       <input type="text" placeholder="Search" value={location} onChange={(event) => setLocation(event.target.value)} 
-          className="rounded-2xl px-2 w-[250px] h-[30px] text-center text-black"
+          className="rounded-xl px-2 w-[250px] h-[30px] text-left text-black"
       />
     </div>
   )

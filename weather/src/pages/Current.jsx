@@ -13,7 +13,7 @@ export default function Current() {
         </div>
         <div className="text-lg my-2 font-semibold">
           Low: 20 <span className="-ml-1">&deg;</span> 
-          <span className="font-bold mx-1">&middot;</span>
+          <span className="font-extrabold text-xl mx-1">&middot;</span>
           High: 30 <span className="-ml-1">&deg;</span>
         </div>
 
