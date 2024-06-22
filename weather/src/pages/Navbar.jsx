@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 
 export default function Navbar() {
   return (
-    <div className="flex align-items-center py-2 justify-between px-6 bg-gray-200 font-semibold drop-shadow-lg">
+    <div className="flex align-items-center py-2 justify-between px-6 bg-gray-200 font-semibold drop-shadow-lg backdrop-blur-sm bg-white/10">
       <div className="text-2xl">Weather</div>
       <div className="">
         <Search />

@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.bg-video {
+  background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fflyngdream.tumblr.com%2Fpost%2F139023998497%2Fmichael-shainblum-our-world-is-a-beautiful-place&psig=AOvVaw2kJOx5RuavLVhPCkyj0r0w&ust=1719139071374000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPilvqGC74YDFQAAAAAdAAAAABAk')
+  /* background-image: url('https://cdn.pixabay.com/video/2019/11/21/29314-374760999_large.mp4')☻ */
+}
